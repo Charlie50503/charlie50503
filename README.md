@@ -7,7 +7,7 @@ Frontend Developer
 具備 Angular, Vue 開發經驗的前端工程師，後端也會寫 nodejs , Java 具有獨自完成專案的能力，也有與團隊合作過的經驗，有將近一年擔任team leader的經驗。
 
 * 🌍  I'm based in Taipei
-* 🖥️  See my portfolio at [MyPortfolio](http://https://www.cakeresume.com/s---1L2ngRyaaXj_E_yLV2wYg--/cate50503)
+* 🖥️  See my portfolio at [MyPortfolio](https://www.cakeresume.com/s---1L2ngRyaaXj_E_yLV2wYg--/cate50503)
 * 🚀  I'm currently working on [node直播班專題](http://github.com/larrylinr5/posts_final)
 * 🧠  I'm learning Angular, Nodejs
 * ⚡  修行者
