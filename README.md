@@ -42,7 +42,7 @@ Frontend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/charlie50503"><img src="https://github-readme-stats.vercel.app/api?username=charlie50503&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="charlie50503's GitHub stats" /></a>
+<a href="http://www.github.com/charlie50503"><img src="https://github-readme-stats.vercel.app/api?username=charlie50503&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="charlie50503's GitHub stats" /></a>
 
 <a href="http://www.github.com/charlie50503"><img src="https://activity-graph.herokuapp.com/graph?username=charlie50503&bg_color=290518&color=bababa&line=2e56cc&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
