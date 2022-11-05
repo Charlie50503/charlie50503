@@ -46,7 +46,5 @@ Frontend Developer
 
 <a href="http://www.github.com/charlie50503"><img src="https://activity-graph.herokuapp.com/graph?username=charlie50503&bg_color=290518&color=bababa&line=2e56cc&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/charlie50503" align="left"><img src="" alt="Top Languages" /></a>
-
 
 ![Top Langs](https://getusetprofile.vercel.app/api/top-langs/?username=charlie50503&langs_count=10&exclude_repo=tinymce-probleme,tinymce-paste-bug-2,test-tinymce-memory-leak&layout=compact&hide=html&theme=vue-dark)
