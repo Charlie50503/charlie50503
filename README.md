@@ -9,7 +9,7 @@ Frontend Developer
 * 🌍  I'm based in Taipei
 * 🖥️  See my portfolio at [MyPortfolio](https://www.cakeresume.com/s---1L2ngRyaaXj_E_yLV2wYg--/cate50503)
 * 🚀  I'm currently working on [node直播班專題](http://github.com/larrylinr5/posts_final)
-* 🧠  I'm learning Angular, Nodejs
+* 🧠  I'm learning OOAD, Docker
 * ⚡  修行者
 
 ### Skills
