@@ -1,18 +1,35 @@
-Hi 👋 My name is Charlie Ku
+Hi 👋 I'm Charlie Ku
 ===========================
 
 Frontend Developer
 ------------------
 
-具備 Angular, Vue 開發經驗的前端工程師，後端也會寫 nodejs , Java 具有獨自完成專案的能力，也有與團隊合作過的經驗，有將近一年擔任team leader的經驗。
+I am an experienced frontend developer with a strong focus on Angular and Vue, complemented by hands-on backend experience in Node.js. My approach emphasizes clean code, maintainable architectures, and a deep understanding of Object-Oriented Analysis and Design (OOAD) principles. I thrive in both independent and collaborative environments, excelling at delivering high-quality solutions tailored to user needs.
 
-* 🌍  I'm based in Taipei
-* 🖥️  See my portfolio at [MyPortfolio](https://www.cakeresume.com/s---1L2ngRyaaXj_E_yLV2wYg--/cate50503)
-* 🚀  I'm currently working on [node直播班專題](http://github.com/larrylinr5/posts_final)
-* 🧠  I'm learning RAG
-* ⚡  修行者
+With nearly a year of experience as a team leader, I have developed expertise in project management, team coordination, and guiding projects from concept to deployment. My skillset also includes leveraging Design Patterns to craft scalable, efficient, and robust systems.
 
-### Skills
+* 🌍 Based in Taipei, Taiwan
+* 🚧 Currently working on Angular Project
+* 🧠 Exploring Domain-Driven Design (DDD) and Clean Architecture
+* ⚡ A lifelong learner and a coding enthusiast
+
+💻 Technical Skills
+------------------
+#### Frontend Development
+* Frameworks: Angular, Vue
+* Languages: TypeScript, JavaScript, HTML5, CSS3 (SASS/SCSS)
+* UI/UX Tools: Bootstrap, Material Design, TailwindCSS
+#### Backend Development
+* Frameworks: Node.js (Express.js), NestJS, C#(CRUD only)
+* Databases: MongoDB, PostgreSQL, Oracle, SQL Server
+#### Software Engineering
+* Principles: Object-Oriented Analysis and Design (OOAD)
+* Design Patterns
+#### DevOps & Tools
+* Version Control: Git (GitHub, GitLab, Gitea)
+* Containerization: Docker
+* Build Tools: Webpack, Vite
+* Hosting: Heroku, Fly.io, IIS
 
 
 <p align="left">
@@ -36,17 +53,18 @@ Frontend Developer
 </p>
 
 
-### Socials
-
+🌐 Socials
+------------------
 <p align="left"> <a href="https://www.github.com/charlie50503" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/家寧-古-0aba381b2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://cate50503.medium.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-### Badges
-
+📊 GitHub Stats
+------------------
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/charlie50503"><img src="https://github-readme-stats.vercel.app/api?username=charlie50503&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="charlie50503's GitHub stats" /></a>
 
-<a href="http://www.github.com/charlie50503"><img src="https://activity-graph.herokuapp.com/graph?username=charlie50503&bg_color=290518&color=bababa&line=2e56cc&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
-
-
 ![Top Langs](https://getusetprofile.vercel.app/api/top-langs/?username=charlie50503&langs_count=10&exclude_repo=tinymce-probleme,tinymce-paste-bug-2,test-tinymce-memory-leak&layout=compact&hide=html&theme=vue-dark)
+
+🌟 Fun Fact
+------------------
+I view coding as a journey of growth and exploration. Outside of development, I enjoy reflecting on life philosophies and embracing a mindset of continuous improvement. Let’s build something awesome together!
