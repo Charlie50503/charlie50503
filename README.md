@@ -4,7 +4,7 @@ Hi 👋 I'm Charlie Ku
 Frontend Developer
 ------------------
 
-I am an experienced frontend developer with a strong focus on Angular and Vue, complemented by hands-on backend experience in Node.js. My approach emphasizes clean code, maintainable architectures, and a deep understanding of Object-Oriented Analysis and Design (OOAD) principles. I thrive in both independent and collaborative environments, excelling at delivering high-quality solutions tailored to user needs.
+I am an experienced frontend developer with a strong focus on Angular and Vue, complemented by hands-on backend experience in .Net Core. My approach emphasizes clean code, maintainable architectures, and a deep understanding of Object-Oriented Analysis and Design (OOAD) principles. I thrive in both independent and collaborative environments, excelling at delivering high-quality solutions tailored to user needs.
 
 With nearly a year of experience as a team leader, I have developed expertise in project management, team coordination, and guiding projects from concept to deployment. My skillset also includes leveraging Design Patterns to craft scalable, efficient, and robust systems.
 
