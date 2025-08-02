@@ -20,7 +20,7 @@ With nearly a year of experience as a team leader, I have developed expertise in
 * Languages: TypeScript, JavaScript, HTML5, CSS3 (SASS/SCSS)
 * UI/UX Tools: Bootstrap, Material Design, TailwindCSS
 #### Backend Development
-* Frameworks: Node.js (Express.js), NestJS, C#(CRUD only)
+* Frameworks: Node.js (Express.js), NestJS, C# (.Net Core)
 * Databases: MongoDB, PostgreSQL, Oracle, SQL Server
 #### Software Engineering
 * Principles: Object-Oriented Analysis and Design (OOAD)
